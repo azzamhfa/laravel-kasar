@@ -1,3 +1,18 @@
+# Project Laravel X Express
+Disini kita bakal bikin web kaya perpus CI di Pemweb tapi ini isinya FILM
+Trus disini kita pake laravel sebagai front end, backend pake Expreess.JS
+Ini github buat cadangan aja dan masih ujicoba buat Backend
+
+## Proggreess
+Pembuatan Backend : sudah.
+Koneksi buat load film dr Backend ke Front End : sudah.
+Koneksi buat login dr Front End ke Backend : BELUM.
+
+## LINK PENTING
+Link Backend : https://github.com/andrisan-class/backend_rent-movie
+Link Database (buat diimport di phpmyadmin) : https://drive.google.com/file/d/127ZoRMkXwIA3T-7DCCJ44Vyk03uPG0iF/view?usp=sharing
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
