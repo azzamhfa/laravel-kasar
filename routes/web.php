@@ -19,4 +19,5 @@ $baseController =  "App\Http\Controllers";
 Route::get('/', $baseController.'\HomeController@home');
 Route::get('/admin', $baseController.'\HomeController@home');
 Route::get('/login', $baseController.'\LoginController@login');
+Route::post('/auth', $baseController.'\LoginController@auth');
 
